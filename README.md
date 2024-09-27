@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-I am currently working in Hexagon<br>I am learning front end development<br>Fun facts about me is I am enthusiast always seeking opportunities to learn new tech stacks and enhance my technical skills
+I am currently working in Hexagon.<br>I specialize in front-end development.<br>Fun facts about me : I am enthusiast always seeking opportunities to learn new tech stacks and enhance my technical skills
 
 
 ## 🌐 Socials:
